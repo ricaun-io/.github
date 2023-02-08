@@ -1,4 +1,10 @@
-## ricaun
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ricaun.com/img/bw/ricaun-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://ricaun.com/img/bw/ricaun-dark.png">
+    <img alt="ricaun" src="https://ricaun.com/img/bw/ricaun-dark.png" height="120">
+  </picture>
+</div>
 
 ricaun is a leading provider of custom tools and innovative solutions for the Architecture, Engineering, and Construction (AEC) industry. With a focus on electrical engineering and the use of Revit and the Revit API, ricaun creates custom tools that streamline workflows and increase productivity for electrical engineers.
 
