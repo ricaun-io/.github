@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ricaun.com/img/bw/ricaun-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://ricaun.com/img/bw/ricaun-dark.png">
-    <img alt="ricaun" src="https://ricaun.com/img/bw/ricaun-dark.png" height="120">
+    <source media="(prefers-color-scheme: light)" srcset="https://ricaun.com/img/bw/ricaun-black.png">
+    <img alt="ricaun" src="https://ricaun.com/img/bw/ricaun-black.png" height="120">
   </picture>
 </div>
 
