@@ -6,7 +6,7 @@ In addition to its custom tool development, ricaun is also known for its contrib
 
 One of the key offerings from ricaun is AppLoader, a powerful plugin for Revit. AppLoader allows Revit developers to run commands and applications without having to close and open Revit, saving time and improving workflow efficiency. With AppLoader, users can easily create their custom tools and access their favorite tools and resources directly from within Revit, streamlining their workflow and increasing productivity.
 
-### Plugins
+### Revit Plugins
 
 * [ricaun.AppLoader](https://ricaun.com/AppLoader)
 * [ricaun.EasyConduit](https://ricaun.com/EasyConduit)
@@ -14,6 +14,8 @@ One of the key offerings from ricaun is AppLoader, a powerful plugin for Revit. 
 * [ricaun.ConduitMaterial](https://ricaun.com/ConduitMaterial)
 * [ricaun.CircuitName](https://ricaun.com/CircuitName)
 * [ricaun.ElectricalUtils](https://ricaun.com/ElectricalUtils)
+
+### Revit Plugins - `Open Source`
 
 * [RevitAddin.CommandLoader](https://github.com/ricaun-io/RevitAddin.CommandLoader)
 
