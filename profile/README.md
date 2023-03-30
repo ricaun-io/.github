@@ -21,9 +21,40 @@ One of the key offerings from ricaun is AppLoader, a powerful plugin for Revit. 
 * [ricaun.CircuitName](https://ricaun.com/CircuitName)
 * [ricaun.ElectricalUtils](https://ricaun.com/ElectricalUtils)
 
+### Contact
+
+* [ricaun.com](https://ricaun.com)
+* [Github](https://ricaun.com/github)
+* [Instagram](https://ricaun.com/instagram)
+* [Facebook](https://ricaun.com/facebook)
+* [Linkedin](https://ricaun.com/linkedin)
+
+### Packages - `Open Source`
+
+* [ricaun.Nuke](https://github.com/ricaun-io/ricaun.Nuke)
+* [ricaun.Nuke.PackageBuilder](https://github.com/ricaun-io/ricaun.Nuke.PackageBuilder)
+* [ricaun.Revit.UI](https://github.com/ricaun-io/ricaun.Revit.UI)
+* [ricaun.Revit.Mvvm](https://github.com/ricaun-io/ricaun.Revit.Mvvm)
+* [ricaun.Revit.Github](https://github.com/ricaun-io/ricaun.Revit.Github)
+* [ricaun.Revit.ExtensibleJson](https://github.com/ricaun-io/ricaun.Revit.ExtensibleJson)
+* [ricaun.Revit.CefSharp](https://github.com/ricaun-io/ricaun.Revit.CefSharp)
+* [ricaun.HelixToolkit.Wpf](https://github.com/ricaun-io/ricaun.HelixToolkit.Wpf)
+* [Autodesk.PackageBuilder](https://github.com/ricaun-io/Autodesk.PackageBuilder)
+* [forge-api-dotnet-oss](https://github.com/ricaun-io/forge-api-dotnet-oss)
+* [named-pipe-wrapper-json](https://github.com/ricaun-io/named-pipe-wrapper-json)
+* [firebase-functions-dotnet](https://github.com/ricaun-io/firebase-functions-dotnet)
+
 ### Revit Plugins - `Open Source`
 
 * [RevitAddin.CommandLoader](https://github.com/ricaun-io/RevitAddin.CommandLoader)
+* [RevitAddin.UpdaterTester](https://github.com/ricaun-io/RevitAddin.UpdaterTester)
+* [RevitAddin.MultVersion](https://github.com/ricaun-io/RevitAddin.MultVersion)
+* [RevitAddin.DA.Tester](https://github.com/ricaun-io/RevitAddin.DA.Tester)
+* [RevitAddin.CountIt.Test](https://github.com/ricaun-io/RevitAddin.CountIt.Test)
+* [RevitAddin.RibbonMoveTest](https://github.com/ricaun-io/RevitAddin.RibbonMoveTest)
+* [RevitAddin.StorageExample](https://github.com/ricaun-io/RevitAddin.StorageExample)
+* [RevitAddin.TemporaryGraphicsExample](https://github.com/ricaun-io/RevitAddin.TemporaryGraphicsExample)
+* [RevitAddin.SelectionChangedExample](https://github.com/ricaun-io/RevitAddin.SelectionChangedExample)
 
 ---
 
