@@ -42,6 +42,7 @@ One of the key offerings from ricaun is AppLoader, a powerful plugin for Revit. 
 * [ricaun.HelixToolkit.Wpf](https://github.com/ricaun-io/ricaun.HelixToolkit.Wpf)
 * [Autodesk.PackageBuilder](https://github.com/ricaun-io/Autodesk.PackageBuilder)
 * [forge-api-dotnet-oss](https://github.com/ricaun-io/forge-api-dotnet-oss)
+* [forge-api-dotnet-oss.design.automation](https://github.com/ricaun-io/forge-api-dotnet-oss.design.automation)
 * [named-pipe-wrapper-json](https://github.com/ricaun-io/named-pipe-wrapper-json)
 * [firebase-functions-dotnet](https://github.com/ricaun-io/firebase-functions-dotnet)
 
