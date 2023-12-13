@@ -59,6 +59,7 @@ One of the key offerings from ricaun is AppLoader, a powerful plugin for Revit. 
 * [RevitAddin.StorageExample](https://github.com/ricaun-io/RevitAddin.StorageExample)
 * [RevitAddin.TemporaryGraphicsExample](https://github.com/ricaun-io/RevitAddin.TemporaryGraphicsExample)
 * [RevitAddin.SelectionChangedExample](https://github.com/ricaun-io/RevitAddin.SelectionChangedExample)
+* [RevitAddin.Dockable.Example](https://github.com/ricaun-io/RevitAddin.Dockable.Example)
 
 ---
 
