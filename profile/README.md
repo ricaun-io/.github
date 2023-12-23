@@ -33,9 +33,11 @@ One of the key offerings from ricaun is AppLoader, a powerful plugin for Revit. 
 
 * [ricaun.Nuke](https://github.com/ricaun-io/ricaun.Nuke)
 * [ricaun.Nuke.PackageBuilder](https://github.com/ricaun-io/ricaun.Nuke.PackageBuilder)
+* [ricaun.DI](https://github.com/ricaun-io/ricaun.DI)
 * [ricaun.Revit.UI](https://github.com/ricaun-io/ricaun.Revit.UI)
 * [ricaun.Revit.UI.StatusBar](https://github.com/ricaun-io/ricaun.Revit.UI.StatusBar)
 * [ricaun.Revit.DB](https://github.com/ricaun-io/ricaun.Revit.DB)
+* [ricaun.Revit.DI](https://github.com/ricaun-io/ricaun.Revit.DI)
 * [ricaun.Revit.Mvvm](https://github.com/ricaun-io/ricaun.Revit.Mvvm)
 * [ricaun.Revit.Github](https://github.com/ricaun-io/ricaun.Revit.Github)
 * [ricaun.Revit.ExtensibleJson](https://github.com/ricaun-io/ricaun.Revit.ExtensibleJson)
@@ -61,6 +63,7 @@ One of the key offerings from ricaun is AppLoader, a powerful plugin for Revit. 
 * [RevitAddin.TemporaryGraphicsExample](https://github.com/ricaun-io/RevitAddin.TemporaryGraphicsExample)
 * [RevitAddin.SelectionChangedExample](https://github.com/ricaun-io/RevitAddin.SelectionChangedExample)
 * [RevitAddin.Dockable.Example](https://github.com/ricaun-io/RevitAddin.Dockable.Example)
+* [RevitAddin.ProgressBar.Example](https://github.com/ricaun-io/RevitAddin.ProgressBar.Example)
 
 ---
 
