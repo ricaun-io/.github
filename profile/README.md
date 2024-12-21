@@ -60,6 +60,7 @@ One of the key offerings from ricaun is AppLoader, a powerful plugin for Revit. 
 
 ### Revit Plugins - `Open Source`
 
+* [RevitTest.Sample](https://github.com/ricaun-io/RevitTest)
 * [RevitAddin.CommandLoader](https://github.com/ricaun-io/RevitAddin.CommandLoader)
 * [RevitAddin.UpdaterTester](https://github.com/ricaun-io/RevitAddin.UpdaterTester)
 * [RevitAddin.MultVersion](https://github.com/ricaun-io/RevitAddin.MultVersion)
